@@ -14,7 +14,7 @@
     <li><strong>Birthdate:</strong> 27.02.2000</li>
     <li><strong>Location:</strong> Frankfurt, Germany</li>
     <li><strong>Education:</strong> Studying Medical Informatics (Bachelor of Science) at THM Gießen</li>
-    <li><strong>Occupation:</strong> Freelance IT Rollout Specialist</li>
+    <li><strong>Occupation:</strong> Freelance IT </li>
     <li><strong>Interests:</strong> Videogames, Piano, AI, and Machine Learning</li>
 </ul>
 
